@@ -1,0 +1,14 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  .Container{
+      background-color: #353839;
+      color:white;
+      text-size-adjust: 25px;
+  }
+ .p1{
+     background-origin: shadow 2%;;
+ }
